@@ -1,0 +1,21 @@
+# Access Control System Demo
+# Dependencies for RBAC/ABAC implementation
+
+# Database
+sqlalchemy>=2.0.0
+
+# CLI Interface
+rich>=13.0.0
+typer>=0.9.0
+
+# Password hashing (for realistic user authentication demo)
+bcrypt>=4.0.0
+
+# Date/time handling
+python-dateutil>=2.8.0
+
+# Testing
+pytest>=7.0.0
+
+# Optional: Web UI (Flask-based)
+flask>=3.0.0
